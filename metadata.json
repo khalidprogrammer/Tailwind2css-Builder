@@ -1,0 +1,5 @@
+{
+  "name": "Tailwind2Builder CSS Converter",
+  "description": "A high-performance utility for converting Tailwind CSS classes into production-ready CSS for Elementor and other WordPress page builders.",
+  "requestFramePermissions": []
+}
